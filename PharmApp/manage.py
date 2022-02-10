@@ -3,6 +3,7 @@
 import os
 import sys
 
+# this was created using django
 
 def main():
     """Run administrative tasks."""
